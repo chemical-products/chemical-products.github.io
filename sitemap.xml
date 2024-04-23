@@ -22,10 +22,10 @@
     <priority>1.00</priority>
   </url>
 
-  <url>
+  <!-- <url>
     <loc>https://chacychem.com/news.html</loc>
     <priority>1.00</priority>
-  </url>
+  </url> -->
 
   <url>
     <loc>https://chacychem.com/products.html</loc>
@@ -47,10 +47,10 @@
     <priority>1.00</priority>
   </url>
 
-  <url>
+  <!-- <url>
     <loc>https://chacychem.com/single.html</loc>
     <priority>1.00</priority>
-  </url>
+  </url> -->
 
   <url>
     <loc>https://chacychem.com/detail-zeolite.html</loc>

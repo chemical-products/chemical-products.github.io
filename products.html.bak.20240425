@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prodcuts</title>
+<!--css-->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!--/css-->
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="RIVER MOUNTAIN, chacychem" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->		
+<!-- js -->
+<script src="js/jquery.min.js"> </script>
+<script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<!-- /js -->
+<!--fonts-->
+<!-- <link href='http://fonts.useso.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'> -->
+<!--/fonts-->
+<!--script-->
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},900);
+				});
+			});
+</script>
+<!--/script-->
+</head>
+<body>
+<!--header-->
+<div class="header">
+<div class="header-nav">
+	<div class="container">
+		<div class="logo">
+			<a href="index.html"><h1>RIVER MOUNTAIN</h1></a>
+		</div>
+		<div class="navigation">
+			<nav class="navbar navbar-default">
+				<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"> </span>
+						<span class="icon-bar"> </span>
+						<span class="icon-bar"> </span>
+					  </button>
+					</div>
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+					  <ul class="nav navbar-nav">
+						<li><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+						<li><a href="about.html">About</a></li>
+						<!-- <li><a href="services.html">Services</a></li>  -->
+						 <!-- <li><a href="news.html">News</a></li>  --> 
+						<li class="active"><a href="products.html">Prodcuts</a></li>
+						<li><a href="contact.html">Contact Us</a></li>
+					  </ul>
+			  <div class="clearfix"> </div>
+			</div><!-- /.navbar-collapse -->
+		</nav>
+	</div>
+	</div>
+	</div>
+</div>
+			  <!-- script-for-menu -->
+		 <script>
+				$("span.menu").click(function(){
+					$(".top-nav ul").slideToggle("slow" , function(){
+					});
+				});
+		 </script>
+		 <!-- script-for-menu -->
+<div class="banner-left">
+						<div class="banner-title"> 
+							<div  id="top" class="callbacks_container">
+								<ul class="rslides" id="slider3">
+									<li>
+										<div class="banner2 banner5">
+										</div>
+									</li>
+						</ul>
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+</div>		
+<div class="banner-bottom-strip">
+	<div class="container">
+		<p>RIVER AND MOUNTAIN GLOBALLIMITED was established in 1999 and has established extensive and stable trade cooperation relationships with renowned merchants from over 50 countries and regions around the world</p>
+	</div>
+</div>	
+<!--inner-page-about-->
+<!--light-box-files -->
+		<script src="js/jquery.chocolat.js"></script>
+		<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+		<!--light-box-files -->
+		<script type="text/javascript" charset="utf-8">
+		$(function() {
+			$('.moments-bottom a').Chocolat();
+		});
+		</script>
+<!--/light-box-files -->
+
+
+<style>
+.col-md-4 {
+	width: auto;
+	
+}
+.product-grid{
+	padding-top: 25px;
+}
+.products-grid-img{
+	width:165px !important;
+	height: 165px;
+	
+}
+.welcome h3 {
+   
+    text-align: left;
+    color: #3F67BF;
+    
+}
+.project-grid-text1 h4{
+	
+	word-wrap:break-word;
+}
+
+</style>
+
+
+<div class="welcome ">
+	<div class="container">
+		<h3>INDUSTRY USE</h3>
+		<!-- <h5>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</h5> -->
+<div id="products" class="products">
+
+					<div class="col-md-4 product-grid">
+						<a href="detail_sebacic_acid.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+							<img src="images/products/SEBACIC_ACID.png" alt=" " class="img-responsive products-grid-img" />
+						</a>
+						<div class="project-grid-text1">
+							<h4> SEBACIC ACID</h4>
+						
+						</div>
+				</div>
+
+
+				<div class="col-md-4 product-grid">
+						<a href="detail-soad-ash-light.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+							<img src="images/products/SODA_ASH_LIGHT.png" alt=" " class="img-responsive products-grid-img" />
+						</a>
+						<div class="project-grid-text1">
+							<h4> SODA ASH LIGHT</h4>
+						
+						</div>
+				</div>
+
+				<div class="col-md-4 product-grid">
+					<a href="detail-soad-ash-dense.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+						<img src="images/products/SODA_ASH_DENSE.png" alt=" " class="img-responsive products-grid-img" />
+					</a>
+					<div class="project-grid-text1">
+						<h4> SODA ASH DENSE</h4>
+					
+					</div>
+			</div>
+			<div class="col-md-4 product-grid">
+				<a href="detail_sodium_sulphate_anhydrous.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+					<img src="images/products/SODIUM_SULPHATE_ANHYDROUS.png" alt=" " class="img-responsive products-grid-img" />
+				</a>
+				<div class="project-grid-text1">
+					<h4  > SODIUM SULPHATE ANHYDROUS</h4>
+				
+				</div>
+		</div>
+		
+		<div class="col-md-4 product-grid">
+			<a href="detail_barium_carbonate.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+				<img src="images/products/BARIUM_CARBONATE.png" alt=" " class="img-responsive products-grid-img" />
+			</a>
+			<div class="project-grid-text1">
+				<h4> BARIUM CARBONATE</h4>
+			
+			</div>
+	</div>
+	
+	<div class="col-md-4 product-grid">
+		<a href="detail_thiourea_dioxide.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/THIOUREA_DIOXIDE.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4> THIOUREA DIOXIDE</h4>
+		
+		</div>
+	</div>
+	<div class="col-md-4 product-grid">
+		<a href="detail_sodium_hydrosulphite.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/SODIUM_HYDROSULPHITE.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4> SODIUM HYDROSULPHITE</h4>
+		
+		</div>
+	</div>
+	<div class="col-md-4 product-grid">
+		<a href="detail_calcium_chloride.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/CALCIUM_CHLORIDE.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4> CALCIUM CHLORIDE </h4>
+		
+		</div>
+	</div>
+
+	<div class="col-md-4 product-grid">
+		<a href="detail_pvc.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/PVC.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4> PVC </h4>
+		
+		</div>
+	</div>
+	<div class="col-md-4 product-grid">
+		<a href="detail_potassium_hydroxide_solid.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/POTASSIUM_HYDROXIDE_SOLID.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4> POTASSIUM HYDROXIDE SOLID </h4>
+		
+		</div>
+	</div>
+
+
+
+
+		</div>
+	</div>
+
+	<!-------------------------FOOD ADDITIVES USE----------------------------------->
+	<div class="container" style="margin-top: 24px;">
+		<h3 >FOOD ADDITIVES USE</h3>
+		<!-- <h5>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</h5> -->
+<div id="products" class="products">
+				<div class="col-md-4 product-grid">
+						<a href="detail_sodium_bicarbonate.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+							<img src="images/products/SODIUM_BICARBONATE.png" alt=" " class="img-responsive products-grid-img" />
+						</a>
+						<div class="project-grid-text1">
+							<h4> SODIUM BICARBONATE</h4>
+						</div>
+				</div>
+
+				<div class="col-md-4 product-grid">
+					<a href="detail_ammonium_bicarbonate.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+						<img src="images/products/AMMONIUM_BICARBONATE.png" alt=" " class="img-responsive products-grid-img" />
+					</a>
+					<div class="project-grid-text1">
+						<h4>AMMONIUM BICARBONATE</h4>
+					
+					</div>
+			</div>
+			<div class="col-md-4 product-grid">
+				<a href="detail_citric_acid_anhydrous.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+					<img src="images/products/CITRIC_ACID_ANHYDROUS.png" alt=" " class="img-responsive products-grid-img" />
+				</a>
+				<div class="project-grid-text1">
+					<h4>CITRIC ACID ANHYDROUS</h4>
+				
+				</div>
+		</div>
+		
+		<div class="col-md-4 product-grid">
+			<a href="detail_monosodium_glutamate.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+				<img src="images/products/MONOSODIUM_GLUTAMATE.png" alt=" " class="img-responsive products-grid-img" />
+			</a>
+			<div class="project-grid-text1">
+				<h4> MONOSODIUM GLUTAMATE</h4>
+			
+			</div>
+	</div>
+	
+	<div class="col-md-4 product-grid">
+		<a href="detail_garlic_powder_granule.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+			<img src="images/products/GARLIC_POWDER_GRANULE.png" alt=" " class="img-responsive products-grid-img" />
+		</a>
+		<div class="project-grid-text1">
+			<h4 > GARLIC POWDER/GRANULE</h4>
+		
+		</div>
+	</div>
+
+		</div>
+
+
+
+
+
+
+	</div>
+
+
+	<!-------------------------AGRICULTURE USE----------------------------------->
+	<div class="container" style="margin-top: 24px;margin-bottom: 24px;">
+		<h3 >AGRICULTURE USE</h3>
+		<!-- <h5>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</h5> -->
+<div id="products" class="products">
+				<div class="col-md-4 product-grid">
+						<a href="detail_dtpa_fe.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+							<img src="images/products/DTPA_FE.png" alt=" " class="img-responsive products-grid-img" />
+						</a>
+						<div class="project-grid-text1">
+							<h4> DTPA-FE</h4>
+						</div>
+				</div>
+
+				<div class="col-md-4 product-grid">
+					<a href="detail_ammonium_sulphate_cplgrade.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+						<img src="images/products/AMMONIUM_SULPHATE_CPLGRADE.png" alt=" " class="img-responsive products-grid-img" />
+					</a>
+					<div class="project-grid-text1">
+						<h4>AMMONIUM SULPHATE CPLGRADE</h4>
+					
+					</div>
+			</div>
+			<div class="col-md-4 product-grid">
+				<a href="detail_ammonium_chloride.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+					<img src="images/products/AMMONIUM_CHLORIDE.png" alt=" " class="img-responsive products-grid-img" />
+				</a>
+				<div class="project-grid-text1">
+					<h4>AMMONIUM CHLORIDE</h4>
+				
+				</div>
+		</div>
+		
+		<div class="col-md-4 product-grid">
+			<a href="detail_urea.html"  target="_blank" class="b-link-stripe b-animate-go1   "  title="">
+				<img src="images/products/UREA.png" alt=" " class="img-responsive products-grid-img" />
+			</a>
+			<div class="project-grid-text1">
+				<h4> UREA</h4>
+			
+			</div>
+	</div>
+	</div>
+	
+
+</div>
+
+
+
+
+
+
+
+<!-- <div class="gallery">
+	<div class="container">
+		<h3>Produts</h3>
+			<div class="moments-bottom">
+				<div class="moments-1">
+					<div class="col-md-4 moments-left">
+						<a href="images/10.jpg">
+							<img src="images/10.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/14.jpg">
+							<img src="images/14.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/15.jpg">
+							<img src="images/15.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="moments-1">
+					<div class="col-md-4 moments-left">
+						<a href="images/16.jpg">
+							<img src="images/16.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/17.jpg">
+							<img src="images/17.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/18.jpg">
+							<img src="images/18.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+					<div class="moments-1">
+					<div class="col-md-4 moments-left">
+						<a href="images/19.jpg">
+							<img src="images/19.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/20.jpg">
+							<img src="images/20.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="col-md-4 moments-left">
+						<a href="images/22.jpg">
+							<img src="images/22.jpg" alt="name" />
+						</a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div> -->
+<!--/inner-page-about-->
+ <div class="footer">
+			 <div class="container">				 	
+				 <div class="col-md-3 ftr_navi ftr">
+					 <h3>NAVIGATION</h3>
+					 <ul>
+						 <li><a href="index.html">Home</a></li>
+						 <li><a href="about.html">About</a></li>
+						 <li><a href="products.html">Prodcuts</a></li>						
+						<!-- <li><a href="news.html">News</a></li>  --> 
+						 <li><a href="contact.html">Contact</a></li>
+					 </ul>
+				 </div>
+				 <div class="col-md-3 ftr_navi ftr">
+					 <h3>MEMBERS</h3>
+					 <ul>
+						 <li><a href="#">Customer Support</a></li>
+						 <li><a href="#">Platinum Support</a></li>
+						 <li><a href="#">Gold Support</a></li>						
+						 <li><a href="#">Standard Support</a></li>
+						 <li><a href="#">Training</a></li>
+					 </ul>
+				 </div>
+				 <div class="col-md-3 get_in_touch ftr">
+					  <h3>Room 806, 8/F</h3>
+					  <p>Ling Qiao Plaza,</p>
+					  <p>No. 31 Yaohang Street, Ningbo, China</p>
+					    <p>+86 13702103024</p>
+					  <a href="mailto: chacychem@outlook.com">chacychem@outlook.com</a>
+				 </div>
+				 <div class="col-md-3 ftr-logo">
+					 <a href="index.html"><h3>RIVER MOUNTAIN</h3></a>
+					 <p>Copyright &copy; 2015.Company name All rights reserved.<a target="_blank" href=" "></a></p>
+				 </div>
+				<div class="clearfix"> </div>
+			 </div>
+		  </div>
+		 <!---End-container---->
+		 <!---->
+<script type="text/javascript">
+		$(document).ready(function() {
+				/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+				*/
+		$().UItoTop({ easingType: 'easeOutQuart' });
+});
+</script>
+<a href="#to-top" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!----> 
+</body>
+</html>

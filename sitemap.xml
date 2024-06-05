@@ -18,7 +18,7 @@
   </url>
 
   <url>
-    <loc>https://rmgtrd.com/services.html</loc>
+    <loc>https://rmgtrd.com/news.html</loc>
     <priority>1.00</priority>
   </url>
 
@@ -147,4 +147,44 @@
     <priority>0.65</priority>
   </url>
 
+
+<!--  news detail -->
+<url>
+    <loc>https://rmgtrd.com/pages/news/1045_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1046_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1047_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1048_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1049_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1050_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1051_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1052_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+<url>
+    <loc>https://rmgtrd.com/pages/news/1053_detail.html</loc>
+    <priority>0.65</priority>
+</url>
+
+<!--  news detail -->
 </urlset>
